@@ -1,0 +1,10 @@
+button{
+    width:100%;
+    border-radius:25px;
+    padding:15px;
+}
+#link{
+    color: gray;
+    border:2px solid gainsboro;
+    border-radius:25px;
+}

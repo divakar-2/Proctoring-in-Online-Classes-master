@@ -1,0 +1,9 @@
+.input{
+    size: 25px;
+}
+.modal{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    left:35%;
+}

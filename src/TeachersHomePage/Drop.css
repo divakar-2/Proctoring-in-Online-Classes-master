@@ -1,0 +1,10 @@
+.modal{
+  margin-top: 30px;
+}
+input{
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width:80%;
+}

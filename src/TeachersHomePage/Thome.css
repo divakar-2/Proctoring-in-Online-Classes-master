@@ -1,0 +1,17 @@
+#meetbox{
+    float:right;
+    padding: 15%;
+    align-items: center;
+    color: gray;
+}
+button{
+    border: 0cm;
+    font-size:x-large;
+    background-color:#FFFFFF;
+    cursor: pointer;
+    width:95%;
+}
+#mar{
+    color: gray;
+    margin-top: 35px;
+}
